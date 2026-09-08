@@ -62,43 +62,43 @@ Welcome to the **Awesome Spend Management Platform** directory! This repository 
 
 > 🔓 **Open-Source Context**: Dedicated open-source corporate-card issuing platforms are rare due to financial card-network regulations. However, full-featured open-source ERP systems (ERPNext, Odoo) and dedicated self-hosted invoice/expense applications offer complete procurement, approval workflow, and accounting foundations. Projects below are sorted by GitHub star counts (descending).
 
-- **[Maybe](https://github.com/maybe-finance/maybe)** [![GitHub stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social)](https://github.com/maybe-finance/maybe/stargazers)  
+- **[Maybe](https://github.com/maybe-finance/maybe)** [![GitHub_Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social)](https://github.com/maybe-finance/maybe/stargazers)  
   Open-source personal and small-team financial management app offering real-time asset, expense, and budget tracking.
 
-- **[Odoo Community](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social)](https://github.com/odoo/odoo/stargazers)  
+- **[Odoo Community](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social)](https://github.com/odoo/odoo/stargazers)  
   Popular open-source business suite including expense management, purchase, accounting, and approval apps that can be combined into a spend control stack.
 
-- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social)](https://github.com/frappe/erpnext/stargazers)  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social)](https://github.com/frappe/erpnext/stargazers)  
   Fully open-source ERP with strong procurement, purchasing, expense claims, approval workflows, accounting, and inventory modules. One of the most complete open-source foundations for spend-related processes.
 
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social)](https://github.com/firefly-iii/firefly-iii/stargazers)  
   Self-hosted financial manager providing detailed budget tracking, expense categorization, and rule-based transaction automations for small operations.
 
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social)](https://github.com/invoiceninja/invoiceninja/stargazers)  
   Open-source invoicing, expense management, purchase order tracking, and payment processing application for small businesses and freelancers.
 
-- **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social)](https://github.com/akaunting/akaunting/stargazers)  
+- **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social)](https://github.com/akaunting/akaunting/stargazers)  
   Online open-source accounting and expense management software designed for small businesses to track expenses, manage vendor invoices, and control cash flow.
 
-- **[Dolibarr ERP &amp; CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social)](https://github.com/Dolibarr/dolibarr/stargazers)  
+- **[Dolibarr ERP &amp; CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social)](https://github.com/Dolibarr/dolibarr/stargazers)  
   Open-source ERP and CRM system equipped with expense report submission, vendor invoice approvals, purchasing workflows, and financial reporting modules.
 
-- **[Crater](https://github.com/crater-invoice/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social)](https://github.com/crater-invoice/crater/stargazers)  
+- **[Crater](https://github.com/crater-invoice/crater)** [![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social)](https://github.com/crater-invoice/crater/stargazers)  
   Open-source invoice and expense tracking application built for small businesses and freelancers to manage billing and spending seamlessly.
 
-- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** [![GitHub stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social)](https://github.com/InvoicePlane/InvoicePlane/stargazers)  
+- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** [![GitHub_Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social)](https://github.com/InvoicePlane/InvoicePlane/stargazers)  
   Self-hosted open-source application for managing quotes, invoices, payments, and client expenses with custom approval tracking.
 
-- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social)](https://github.com/actualbudget/actual/stargazers)  
+- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub_Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social)](https://github.com/actualbudget/actual/stargazers)  
   Privacy-focused, self-hosted envelope budgeting system with automated bank sync capabilities suitable for lightweight team spend control.
 
-- **[Apache OFBiz](https://github.com/apache/ofbiz)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz?style=social)](https://github.com/apache/ofbiz/stargazers)  
+- **[Apache OFBiz](https://github.com/apache/ofbiz)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz?style=social)](https://github.com/apache/ofbiz/stargazers)  
   Enterprise automation suite featuring robust purchasing, vendor management, inventory, and order fulfillment modules for complex procurement.
 
-- **[metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social)](https://github.com/metasfresh/metasfresh/stargazers)  
+- **[metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social)](https://github.com/metasfresh/metasfresh/stargazers)  
   Open-source ERP system with purchasing, procurement, accounting, and inventory management features designed for growing businesses.
 
-- **[ERPNext Expenses Extensions](https://github.com/kid1194/erpnext_expenses)** [![GitHub stars](https://img.shields.io/github/stars/kid1194/erpnext_expenses?style=social)](https://github.com/kid1194/erpnext_expenses/stargazers)  
+- **[ERPNext Expenses Extensions](https://github.com/kid1194/erpnext_expenses)** [![GitHub_Stars](https://img.shields.io/github/stars/kid1194/erpnext_expenses?style=social)](https://github.com/kid1194/erpnext_expenses/stargazers)  
   Community modules and custom scripts extending ERPNext with specialized expense claim workflows and multi-level approval rules.
 
 ---
