@@ -40,67 +40,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-
-
-- **[Ramp](https://ramp.com/)**  
-
-  All-in-one finance automation platform combining corporate cards, expense management, bill pay, procurement, and strong policy controls with high automation.
-
-
-
-- **[Brex](https://www.brex.com/)**  
-
-  Corporate card and spend platform popular with startups and growth companies, offering cards, expenses, bill pay, and travel tools.
-
-
-
-- **[Airbase](https://www.airbase.com/)**  
-
-  Unified spend management covering guided procurement, AP automation, corporate cards, and expenses (now part of broader finance suites).
-
-
-
-- **[Spendesk](https://www.spendesk.com/)**  
-
-  European mid-market spend platform focused on cards, expenses, invoices, and spend control with strong approval workflows.
-
-
-
-- **[Emburse](https://www.emburse.com/)**  
-
-  Enterprise expense and travel & expense management suite with mature policy enforcement and global capabilities.
-
-
-
-- **[Pleo, Moss, Payhawk](https://www.pleo.io/)**  
-
-  European spend and card platforms offering company cards, expense capture, and real-time visibility for SMBs and mid-market teams.
-
-
-
-- **[Divvy / BILL Spend & Expense](https://www.bill.com/)**  
-
-  Budget-oriented spend and expense platform with free corporate card options and tight controls.
-
-
-
-- **[Coupa](https://www.coupa.com/)**  
-
-  Enterprise business spend management suite covering procurement, invoicing, expenses, and supply-chain spend.
-
-
-
-- **[Zip, Precoro, Procurify](https://ziphq.com/)**  
-
-  Intake-to-procure and mid-market procurement platforms that streamline requests, approvals, and purchasing.
-
-
-
-- **[Medius, Ivalua, GEP SMART, Rippling Spend, Rho, Teampay, Mesh Payments](https://www.medius.com/)**  
-
-  Additional procurement, AP automation, spend, and card platforms serving mid-market to enterprise needs.
+| Product | Description | Starting Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Ramp](https://ramp.com/)** | All-in-one finance automation platform combining corporate cards, expense management, bill pay, procurement, and policy controls. | `$0/month` (Free tier; Plus tier `$15/user/month`) | Free forever plan with unlimited corporate cards, receipt matching, expense tracking, and accounting sync (requires US business entity). No paid free trial needed. |
+| **[Brex](https://www.brex.com/)** | Corporate card and spend platform for startups and growth companies, offering cards, expenses, bill pay, and travel tools. | `$0/user/month` (Essentials tier; Premium tier `$12/user/month`) | Free forever Essentials plan supporting up to 2 entities with corporate cards, bill pay, and travel booking. No paid free trial. |
+| **[Airbase](https://www.airbase.com/)** | Unified spend management platform covering guided procurement, AP automation, corporate cards, and expense reimbursements. | `$99/month` (Starter package tier) | No free forever plan; 14-day free trial / guided demo available upon request. |
+| **[Spendesk](https://www.spendesk.com/)** | European spend management platform focused on cards, expenses, invoices, and spend control with approval workflows. | `€299/month` (~`$300/month` Starter tier) | No free forever plan; 7-day interactive product demo available upon request. |
+| **[Emburse](https://www.emburse.com/)** | Enterprise expense and travel & expense management suite with policy enforcement and global capabilities. | `$8/user/month` (Emburse Spend Basic; Plus tier `$12/user/month`) | No free forever plan; 30-day free trial available for Emburse Spend (14-day trial for Professional tier). |
+| **[Pleo](https://www.pleo.io/)** | European smart corporate card and expense management platform offering expense capture and real-time visibility. | `£8/user/month` (Start plan; Build plan `£14/month`) | 14-day free trial on paid plans with full features; free starter plan for up to 3 users in select markets. |
+| **[Moss](https://getmoss.com/)** | European corporate credit card and spend management platform with automated invoice management and accounting sync. | `€0/month` (Free tier; modular paid platform fees) | Free forever plan for up to 3 users and up to 20 invoices/month (includes unlimited virtual cards). 14-day free trial for paid tiers. |
+| **[Payhawk](https://payhawk.com/)** | All-in-one spend management solution combining corporate cards, expense management, and AP automation. | `£149/month` (Growth plan for smaller teams) | No free forever plan; 7-day free trial available (read-only card linking & spend visibility; card issuing excluded). |
+| **[BILL Spend & Expense (Divvy)](https://www.bill.com/product/spend-and-expense)** | Budget-oriented spend and expense platform with free corporate card options and tight controls. | `$0/month` (100% free software) | Free forever with no subscription or per-user fees; includes unlimited physical/virtual corporate cards, budget controls, and accounting sync. |
+| **[Coupa](https://www.coupa.com/)** | Enterprise business spend management suite covering procurement, invoicing, expenses, and supply-chain spend. | `$1,750/month` (`$21,000/year` mid-market BSM tier) | No free forever plan for buyers (free Registered tier for suppliers on Coupa Supplier Portal); 30-day free trial for Coupa Supplier Portal Advanced features. |
+| **[Zip](https://ziphq.com/)** | Intake-to-procure platform that streamlines purchasing requests, approvals, vendor onboarding, and contracts. | `$2,000/month` (`$24,000/year` Starter Edition minimum commitment) | No free forever plan; 14-day guided sandbox trial available upon sales request. |
+| **[Precoro](https://precoro.com/)** | Mid-market procurement software automating approval workflows, purchase orders, and AP. | `$499/month` (Core plan billed annually; Automation plan `$999/month`) | No free forever plan; 14-day free trial available with full feature access (no credit card required). |
+| **[Procurify](https://www.procurify.com/)** | Mid-market procurement platform offering PO management, real-time budget tracking, approvals, and spend controls. | `$1,000/month` (Core purchasing suite) | No free forever plan for approvers (free basic requester licenses included); 14-day guided trial available upon request. |
+| **[Medius](https://www.medius.com/)** | AI-driven AP automation and spend management platform automating invoice capture, procurement, and payments. | `$2,499/month` (AP Essentials starting tier) | No free forever plan; 14-day interactive guided product trial available upon request. |
+| **[Ivalua](https://www.ivalua.com/)** | Cloud-based Source-to-Pay and spend management suite serving enterprises with modular procurement applications. | `$12,500/month` (`$150,000/year` enterprise deployment tier) | No free forever plan; 30-day tailored enterprise proof-of-concept / sandbox trial upon sales request. |
+| **[GEP SMART](https://www.gep.com/software/gep-smart)** | Enterprise procurement software unifying source-to-contract, procure-to-pay, and spend analytics. | `$6,250/month` (`$75,000/year` enterprise starting tier) | No free forever plan; 30-day enterprise sandbox demo / trial upon request. |
+| **[Rippling Spend](https://www.rippling.com/spend-management)** | Integrated corporate card, expense management, bill pay, and HR/payroll spend platform. | `$8/user/month` (Core Unity platform base price + ~$14/user/month spend add-on) | No free forever plan; 6-month free trial promotion available for eligible early-stage startups upon sales request. |
+| **[Rho](https://www.rho.co/)** | Commercial banking and automated spend management platform offering corporate cards, AP bill pay, and accounting sync. | `$0/month` (100% free software & business banking) | Free forever with $0 software subscription or per-user fees; includes unlimited corporate cards, AP bill pay, and expense controls (monetized via card interchange). |
+| **[Teampay](https://www.teampay.co/)** | Distributed spend management software providing proactive approval workflows and pre-approved virtual cards. | `$15/user/month` (Starter tier base package) | No free forever plan; 14-day interactive product demo / trial available upon request. |
+| **[Mesh Payments](https://www.meshpayments.com/)** | Corporate spend and card platform with pre-approval workflows, automated expense matching, and travel spend controls. | `$0/month` (Pro plan for up to 3 users; Premium plan `$10/user/month`) | Free forever Pro plan for up to 3 users (includes unlimited virtual cards, automated reconciliation, and accounting sync). |
 
 
 
